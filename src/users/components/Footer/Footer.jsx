@@ -15,7 +15,7 @@ export default function Footer() {
               className="back-to-top"
               onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
             >
-              🡹
+              Top
             </button>
 
             <h3>Follow us:- </h3>
