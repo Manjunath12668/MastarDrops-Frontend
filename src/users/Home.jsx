@@ -14,7 +14,7 @@ export default function Home() {
   const products = useMemo(() => [
     
     {
-      serial_id: 101,
+      serial_id: 1011,
       product_name: "Boat Airdopes 141 Wireless Earbuds",
       product_image: "https://m.media-amazon.com/images/I/51HBom8xz7L._SL1500_.jpg",
       product_link: "https://amzn.to/3Example"
